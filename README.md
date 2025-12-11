@@ -30,7 +30,7 @@
 
   <div align="center" padding="5%"> 
     <h3>💬 About Me</h3>
-    <p>Giro!</p>
+    <p>Programar, Estudar, Aprender, Repetir</p>
   </div>
 
   <a href="#" align="center">
