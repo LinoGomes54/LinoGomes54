@@ -12,7 +12,7 @@
       <img alt="Typing SVG Animation" src="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+We+ are+IA+Pessoas;+Developers+Team;+Welcome+to+ours+GitHub+Profile+:%29" />
     </picture>
   </div>
-
+<!--
   <div align="center">
     <a href="#">
       <picture>
