@@ -12,10 +12,15 @@
 
 ### Sobre mim
 
+Desenvolvedor Back-end e Fullstack com experiência em automações inteligentes,
+integrações com APIs e soluções com IA Generativa. Já reduzi processos operacionais
+de minutos para segundos usando Python, Node.js e TypeScript. Apaixonado por
+transformar problemas reais em código que funciona.
+
 ```typescript
 const lino = {
   role:       "Back-end & Fullstack Developer",
-  location:   "Feira de Santana, BA — Brasil",
+  location:   "Brasil",
   education:  "Ciência da Computação @ UNIFACS (2026)",
   focus:      ["Automações", "Integrações com APIs", "IA Generativa"],
   languages:  ["Português (nativo)", "Inglês (avançado)"],
