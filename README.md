@@ -13,8 +13,8 @@
 ### Sobre mim
 
 Desenvolvedor Back-end e Fullstack com experiência em automações inteligentes,
-integrações com APIs e soluções com IA Generativa. Já reduzi processos operacionais
-de minutos para segundos usando Python, Node.js e TypeScript. Apaixonado por
+integrações com APIs e soluções. Já reduzi processos operacionais
+de minutos para segundos usando Python, Node.js e TypeScript. Sou apaixonado por
 transformar problemas reais em código que funciona.
 
 ```typescript
