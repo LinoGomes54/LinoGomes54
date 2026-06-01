@@ -68,8 +68,8 @@ const lino = {
 ### GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LinoGomes54&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinoGomes54&layout=compact&theme=dark&hide_border=true&langs_count=6"/>
+  <img height="150em" src="https://github-readme-stats-sigma-pied-64.vercel.app/api?username=LinoGomes54&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-pied-64.vercel.app/api/top-langs/?username=LinoGomes54&layout=compact&theme=dark&hide_border=true&langs_count=6"/>
 </p>
 
 ---
