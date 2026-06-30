@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Back-end & Fullstack</h3>
 
 <p align="center">
-  Python · Node.js · TypeScript · Docker · IA Generativa
+  Python · Node.js · TypeScript · Docker
 </p>
 
 <br/>
@@ -22,7 +22,7 @@ const lino = {
   role:       "Back-end & Fullstack Developer",
   location:   "Brasil",
   education:  "Ciência da Computação @ UNIFACS (2026)",
-  focus:      ["Automações", "Integrações com APIs", "IA Generativa"],
+  focus:      ["Automações", "Integrações com APIs", "Website"],
   languages:  ["Português (nativo)", "Inglês (avançado)"],
   contact:    "linkedin.com/in/lino-menezes-de-castro-252068385"
 };
